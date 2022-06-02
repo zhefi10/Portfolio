@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{zhefi10}}/portfolio
+$ git clone https://github.com/{{zhefi10}}/Portfolio
 
 # Access
 $ cd portfolio
